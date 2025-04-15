@@ -11,7 +11,7 @@
       doi: 10.5194/egusphere-2024-3146
       year: 2024
     - title: "The atmosphere-land/ice-ocean system in the region near the 79N Glacier in Northeast Greenland: Synthesis and key findings from GROCE"
-      authors: Kanzow, T., et al.s
+      authors: "Kanzow, T., Humbert, A., Mölg, T., Scheinert, M., Braun, M., Burchard, H., Doglioni, F., Hochreuther, P., Horwath, M., Huhn, O., Kusche, J., Loebel, E., Lutz, K., Marzeion, B., McPherson, R., Mohammadi-Aragh, M., Möller, M., Pickler, C., Reinert, M., Rhein, M., Rückamp, M., Schaffer, J., Shafeeque, M., Stolzenberger, S., Timmermann, R., Turton, J., Wekerle, C., and Zeising, O."
       journal: EGUsphere [preprint]
       doi: 10.5194/egusphere-2024-757
       year: 2024
@@ -36,7 +36,7 @@
       doi: 10.5194/egusphere-2024-1425
       year: 2024
     - title: "Irreversible glacier change and trough water for centuries after overshooting 1.5°C"
-      authors: Schuster, L., Maussion, F., Rounce, D., Ultee, L., Schmitt, P., Lacroix, F., Frölicher, T., Schleussner, C.F.
+      authors: Schuster, L., Maussion, F., Rounce, D., Ultee, L., Schmitt, P., Lacroix, F., Frölicher, T., and Schleussner, C.F.
       journal: Research Square [preprint]
       doi: 10.21203/rs.3.rs-5045894/v1
       year: 2024
@@ -56,7 +56,7 @@
       doi: 10.5194/egusphere-2024-1778
       year: 2024
     - title: "Glacier preservation doubled by limiting warming to 1.5°C"
-      authors: Zekollari, H., Schuster, L., Maussion, F., Hock, R., Marzeion, B., Rounce, D., Compagno, L., Fujita, K., Huss, M., James, M., Kraaijenbrink, P., Lipscomb, W., Minallah, S., Oberrauch, M., van Tricht, L., Champollion, N., Edwards, T., Farinotti, D., Immerzeel, W., Leguy, G., Sakai, A.
+      authors: Zekollari, H., Schuster, L., Maussion, F., Hock, R., Marzeion, B., Rounce, D., Compagno, L., Fujita, K., Huss, M., James, M., Kraaijenbrink, P., Lipscomb, W., Minallah, S., Oberrauch, M., van Tricht, L., Champollion, N., Edwards, T., Farinotti, D., Immerzeel, W., Leguy, G., and Sakai, A.
       journal: EarthArXiv [preprint]
       doi: 10.31223/X51T5W
       year: 2024
@@ -69,7 +69,7 @@
 - category: "2025"
   entries:
     - title: "Cryo-social dynamics: the interplay of glacial dynamics and socioeconomic conditions in the Shigar Valley, Karakoram, Pakistan"
-      authors: Haq, F., Shutkin, T., Afreen, M., and Mark B.G.
+      authors: Haq, F., Shutkin, T., Afreen, M., and Mark, B.G.
       journal: GeoJournal
       doi: 10.1007/s10708-025-11289-6
       year: 2025
@@ -84,7 +84,7 @@
       doi: 10.1038/s41561-024-01597-w
       year: 2025
     - title: "The Open Global Glacier Model (OGGM) Based Assessment of Glacier Mass Variations in Chhota Shigri Glacier, Western Indian Himalaya"
-      authors: Yaka, T., Remesan, R., Pachore, A.
+      authors: Yaka, T., Remesan, R., and Pachore, A.
       journal: "In: Navigating the Nexus. Water Science and Technology Library"
       doi: 10.1007/978-3-031-76532-2_3
       year: 2025
@@ -127,7 +127,7 @@
       doi: 10.1016/j.scib.2024.09.023
       year: 2024
     - title: "Projections of Greenland periphery glaciers and ice caps’s change"
-      authors: Kang, L., Ding, M., Wang, Y., Sun, W., Wang, L., An, H., Zhang, Q., Che, J., & Huai, B
+      authors: Kang, L., Ding, M., Wang, Y., Sun, W., Wang, L., An, H., Zhang, Q., Che, J., and Huai, B
       journal: Environmental Research Letters
       doi: 10.1088/1748-9326/ad8b5f
       year: 2024
@@ -185,7 +185,7 @@
 - category: "2023"
   entries:
     - title: "Hydrological and dynamical response of glaciers to climate change based on their dimensions in the Hunza Basin, Karakoram"
-      authors: Afzal, M. M., Wang, X., Sun, L., Jiang, T., Kong, Q., Luo, Y
+      authors: Afzal, M. M., Wang, X., Sun, L., Jiang, T., Kong, Q., and Luo, Y
       journal: J. Hydrol.
       doi: 10.1016/j.jhydrol.2022.128948
       year: 2023
@@ -195,22 +195,22 @@
       doi: 10.5194/gmd-16-6671-2023
       year: 2023
     - title: "What is the global glacier ice volume outside the ice sheets?"
-      authors: Hock, R., Maussion, F., Marzeion, B. and Nowicki, S.
+      authors: Hock, R., Maussion, F., Marzeion, B., and Nowicki, S.
       journal: J. Glaciol.
       doi: 10.1017/jog.2023.1
       year: 2023
     - title: "Influence of glacier inventories on ice thickness estimates and future glacier change projections in the Tian Shan range, Central Asia"
-      authors: Li, F., Maussion, F., Wu, G., Chen, W., Yu, Z., Li, Y. and Liu, G.
+      authors: Li, F., Maussion, F., Wu, G., Chen, W., Yu, Z., Li, Y., and Liu, G.
       journal: J. Glaciol.
       doi: 10.1017/jog.2022.60
       year: 2023
     - title: "Exploring the impact of a frontal ablation parameterization on projected 21st-century mass change for Northern Hemisphere glaciers"
-      authors: Malles, J., Maussion, F., Ultee, L., Kochtitzky, W., Copland, L. and Marzeion, B.
+      authors: Malles, J., Maussion, F., Ultee, L., Kochtitzky, W., Copland, L., and Marzeion, B.
       journal: J. Glaciol.
       doi: 10.1017/jog.2023.19
       year: 2023
     - title: "Recent applications and potential of near-term (interannual to decadal) climate predictions"
-      authors: O'Kane, T. J., et al.
+      authors: "O’Kane, T. J., Scaife, A. A., Kushnir, Y., Brookshaw, A., Buontempo, C., Carlin, D., Connell, R. K., Doblas-Reyes, F., Dunstone, N., Förster, K., Graça, A., Hobday, A. J., Kitsios, V., van der Laan, L., Lockwood, J., Merryfield, W. J., Paxian, A., Payne, M. R., Reader, M. C., …, and Wu, B."
       journal: Frontiers in Climate
       doi: 10.3389/fclim.2023.1121626
       year: 2023
@@ -220,22 +220,22 @@
       doi: 10.3389/frwa.2023.1296344
       year: 2023
     - title: "Advances in data availability to constrain and evaluate ice dynamical models of Greenland’s tidewater peripheral glaciers"
-      authors: Recinos, B., Maussion, F., Marzeion, B.
+      authors: Recinos, B., Maussion, F., and Marzeion, B.
       journal: Annals of Glaciol.
       doi: 10.1017/aog.2023.11
       year: 2023
     - title: "Seasonal water storage and release dynamics of bofedal wetlands in the Central Andes"
-      authors: Ross, A. C., Mendoza, M. M., Drenkhan, F., Montoya, N., Baiker, J. R., Mackay, J. D., Hannah, D. M., Buytaert, W.
+      authors: Ross, A. C., Mendoza, M. M., Drenkhan, F., Montoya, N., Baiker, J. R., Mackay, J. D., Hannah, D. M., and Buytaert, W.
       journal: Hydrol. Process.
       doi: 10.1002/hyp.14940
       year: 2023
     - title: "Global glacier change in the 21st century: Every increase in temperature matters"
-      authors: Rounce, D. R., Hock, R., Maussion, F., Hugonnet, R., Kochtitzky, W., Huss, M., Berthier, E., Brinkerhoff, D., Compagno, L., Copland, L., Farinotti, D., Menounos, B. and McNabb, R. W.
+      authors: Rounce, D. R., Hock, R., Maussion, F., Hugonnet, R., Kochtitzky, W., Huss, M., Berthier, E., Brinkerhoff, D., Compagno, L., Copland, L., Farinotti, D., Menounos, B., and McNabb, R. W.
       journal: Science
       doi: 10.1126/science.abo1324
       year: 2023. [[download from the authors website](https://www.cmu.edu/cee/people/faculty/rounce.html)]
     - title: "Glacier projections sensitivity to temperature-index model choices and calibration strategies"
-      authors: Schuster, L., Rounce, D., Maussion, F.
+      authors: Schuster, L., Rounce, D., and Maussion, F.
       journal: Annals of Glaciol.
       doi: 10.1017/aog.2023.57
       year: 2023
@@ -250,7 +250,7 @@
       doi: 10.1016/j.envres.2023.117037
       year: 2023
     - title: "A new projection for glacier mass and runoff changes over High Mountain Asia"
-      authors: Zhao, H., Su, B., Lei, H., Zhang, T., Xiao, C.
+      authors: Zhao, H., Su, B., Lei, H., Zhang, T., and Xiao, C.
       journal: Science Bulletin
       doi: 10.1016/j.scib.2022.12.004
       year: 2023
@@ -258,7 +258,7 @@
 - category: "2022"
   entries:
     - title: "A machine learning framework to automate the classification of surge‐type glaciers in Svalbard"
-      authors: Bouchayer, C., Aiken, J. M., Thøgersen, K., Renard, F. and Schuler, T. V.
+      authors: Bouchayer, C., Aiken, J. M., Thøgersen, K., Renard, F., and Schuler, T. V.
       journal: J. Geophys. Res. Earth Surf.
       doi: 10.1029/2022JF006597
       year: 2022
@@ -283,7 +283,7 @@
       doi: 10.3389/feart.2022.857854
       year: 2022
     - title: "Importance of the seasonal temperature and precipitation variation on glacial evolutions during the LGM at monsoonal Himalaya based on Cogarbu valley"
-      authors: Yang, W., Chu W., and Liu, G.
+      authors: Yang, W., Chu, W., and Liu, G.
       journal: Palaeogeogr. Palaeoclimatol. Palaeoecol.
       doi: 10.1016/j.palaeo.2022.111132
       year: 2022
@@ -296,22 +296,22 @@
 - category: "2021"
   entries:
     - title: "Glacial changes over the Himalayan Beas basin under global warming"
-      authors: Dixit, A., Sahany, S. and Kulkarni, A. V.
+      authors: Dixit, A., Sahany, S., and Kulkarni, A. V.
       journal: J. Environ. Manage.
       doi: 10.1016/j.jenvman.2021.113101
       year: 2021
     - title: "Projected land ice contributions to twenty-first-century sea level rise"
-      authors: Edwards, T. et al.
+      authors: "Edwards, T. L., Nowicki, S., Marzeion, B., Hock, R., Goelzer, H., Seroussi, H., Jourdain, N. C., Slater, D. A., Turner, F. E., Smith, C. J., McKenna, C. M., Simon, E., Abe-Ouchi, A., Gregory, J. M., Larour, E., Lipscomb, W. H., Payne, A. J., Shepherd, A., Agosta, C., …, and Zwinger, T."
       journal: Nature
       doi: 10.1038/s41586-021-03302-y
       year: 2021
     - title: "Reconstruction of Past Glacier Changes with an Ice-Flow Glacier Model: Proof of Concept and Validation"
-      authors: Eis, J., van der Laan, L., Maussion, F. and Marzeion, B.
+      authors: Eis, J., van der Laan, L., Maussion, F., and Marzeion, B.
       journal: Front. Earth Sci.
       doi: 10.3389/feart.2021.595755
       year: 2021
     - title: "Classifying disequilibrium of small mountain glaciers from patterns of surface elevation change distributions"
-      authors: Hartl, L., Helfricht, K., Stocker-Waldhuber, M., Seiser, B., & Fischer, A.
+      authors: Hartl, L., Helfricht, K., Stocker-Waldhuber, M., Seiser, B., and Fischer, A.
       journal: Journal of Glaciology
       doi: 10.1017/jog.2021.90
       year: 2021
@@ -321,17 +321,17 @@
       doi: 10.5194/tc-15-5577-2021
       year: 2021
     - title: "Calibration of a frontal ablation parameterization applied to Greenland's peripheral calving glaciers"
-      authors: Recinos, B., Maussion, F., Noël, B., Möller, M., Marzeion, B.
+      authors: Recinos, B., Maussion, F., Noël, B., Möller, M., and Marzeion, B.
       journal: J. Glaciol.
       doi: 10.1017/jog.2021.63
       year: 2021
     - title: "Distributed global debris thickness estimates reveal debris significantly impacts glacier mass balance"
-      authors: Rounce, D. R., Hock, R., McNabb, R. W., Millan, R., Sommer, C., Braun, M. H., Malz, P., Maussion, F., Mouginot, J., Seehaus, T. C. and Shean, D. E.
+      authors: Rounce, D. R., Hock, R., McNabb, R. W., Millan, R., Sommer, C., Braun, M. H., Malz, P., Maussion, F., Mouginot, J., Seehaus, T. C., and Shean, D. E.
       journal: Geophys. Res. Lett.
       doi: 10.1029/2020GL091311
       year: 2021
     - title: "A multi-perspective approach for selecting CMIP6 scenarios to project climate change impacts on glacio-hydrology with a case study in Upper Indus river basin"
-      authors: Shafeeque, M. and Luo, Y.
+      authors: Shafeeque, M., and Luo, Y.
       journal: J. Hydrol.
       doi: 10.1016/j.jhydrol.2021.126466
       year: 2021
@@ -339,22 +339,22 @@
 - category: "2020"
   entries:
     - title: "Future projection of cryospheric and hydrologic regimes in Koshi River basin, Central Himalaya, using coupled glacier dynamics and glacio-hydrological models"
-      authors: Khadka, M., Kayastha, R. B. and Kayastha, R.
+      authors: Khadka, M., Kayastha, R. B., and Kayastha, R.
       journal: J. Glaciol.
       doi: 10.1017/jog.2020.51
       year: 2020
     - title: "Partitioning the Uncertainty of Ensemble Projections of Global Glacier Mass Change"
-      authors: Marzeion, B., Hock, R., Anderson, B., Bliss, A., Champollion, N., Fujita, K., Huss, M., Immerzeel, W., Kraaijenbrink, P., Malles, J., Maussion, F., Radić, V., Rounce, D. R., Sakai, A., Shannon, S., Wal, R. and Zekollari, H.
+      authors: Marzeion, B., Hock, R., Anderson, B., Bliss, A., Champollion, N., Fujita, K., Huss, M., Immerzeel, W., Kraaijenbrink, P., Malles, J., Maussion, F., Radić, V., Rounce, D. R., Sakai, A., Shannon, S., Wal, R., and Zekollari, H.
       journal: Earth’s Futur.
       doi: 10.1029/2019ef001470
       year: 2020
     - title: "Modelling regional glacier length changes over the last millennium using the Open Global Glacier Model"
-      authors: Parkes, D. and Goosse, H.
+      authors: Parkes, D., and Goosse, H.
       journal: The Cryosphere
       doi: 10.5194/tc-14-3135-2020
       year: 2020
     - title: "Bias-corrected estimates of glacier thickness in the Columbia River Basin, Canada"
-      authors: Pelto, B. M., Maussion, F., Menounos, B., Radić, V. and Zeuner, M.
+      authors: Pelto, B. M., Maussion, F., Menounos, B., Radić, V., and Zeuner, M.
       journal: J. Glaciol.
       doi: 10.1017/jog.2020.75
       year: 2020
@@ -367,7 +367,7 @@
       doi: 10.5194/tc-13-3317-2019
       year: 2019
     - title: "A consensus estimate for the ice thickness distribution of all glaciers on Earth"
-      authors: Farinotti, D., Huss, M., Fürst, J. J., Landmann, J., Machguth, H., Maussion, F., & Pandit, A.
+      authors: Farinotti, D., Huss, M., Fürst, J. J., Landmann, J., Machguth, H., Maussion, F., and Pandit, A.
       journal: Nature Geoscience
       doi: 10.1038/s41561-019-0300-3
       year: 2019
@@ -393,7 +393,7 @@
 - category: "2017"
   entries:
     - title: "How accurate are estimates of glacier ice thickness? Results from ITMIX, the Ice Thickness Models Intercomparison eXperiment"
-      authors: Farinotti, D. et al.
+      authors: "Farinotti, D., Brinkerhoff, D. J., Clarke, G. K. C., Fürst, J. J., Frey, H., Gantayat, P., Gillet-Chaulet, F., Girard, C., Huss, M., Leclercq, P. W., Linsbauer, A., Machguth, H., Martin, C., Maussion, F., Morlighem, M., Mosbeux, C., Pandit, A., Portmann, A., Rabatel, A., …, and Andreassen, L. M."
       journal: The Cryosphere
       doi: 10.5194/tc-11-949-2017
       year: 2017
