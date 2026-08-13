@@ -25,7 +25,7 @@ tags: workshop
        style="width: 24%; min-width: 180px; object-fit: cover;">
 </div>
 
-**New (March 23rd, 2026): registration for the workshop is now closed!** Registered participants will be informed about the outcome shortly.
+<span style="color: #d9534f;">**New (August 13, 2026): preliminary programme published!** Access it [here](/img/blog/ggmw2026/ggmw2026_schedule_v3.pdf).</span>
 
 ---
 
@@ -39,6 +39,16 @@ This edition is special in two ways:
 
 - It marks the **10th anniversary** of [the first OGGM workshop in Obergurgl](https://oggm.org/2016/02/11/1st-oggm-worshop-summary/). A small celebration will definitely be in order!
 - We will host a **dedicated GlacierMIP4 session**, focusing on the next phase of the [Glacier Model Intercomparison Project](https://climate-cryosphere.org/working-groups/glaciermip/). Participants in [GlacierMIP4](https://github.com/GlacierMIP/GlacierMIP4) are especially encouraged to attend (remote participation will be offered for this session).
+
+---
+
+### Sponsors
+
+We gratefully acknowledge the financial support of the  [International Association of Cryospheric Sciences (IACS)](https://cryosphericsciences.org/) which is funding the early career researcher (ECR) events and ECR participation throughout the workshop.
+
+  <img src="https://cryosphericsciences.org/wp-content/themes/iacs/img/iugg_logo_complete.png"
+       alt="IACS Logo"
+       style="width: 40%; min-width: 180px; object-fit: cover;">
 
 ---
 
@@ -56,7 +66,7 @@ This edition is special in two ways:
 
 ### Agenda
 
-The agenda will be developed in the lead-up to the workshop. We aim to maintain a flexible schedule that adapts to participants’ needs, interests, and suggestions. Typically, sessions will include oral and poster presentations, group discussions, hands-on activities, and open brainstorming.
+**The agenda (v3, 2026/08/13) is available [here](/img/blog/ggmw2026/ggmw2026_schedule_v3.pdf)**. We aim to maintain a flexible schedule that adapts to participants’ needs, interests, and suggestions. Feel free to reach out if you have any suggestions!
 
 ---
 
@@ -72,7 +82,7 @@ Obergurgl can be reached by taking a train to **Ötztal Bahnhof** on the Innsbru
 
 Participants can expect:
 
-- a conference fee of €250 to cover meeting facilities and coffee breaks (these costs might be lowered pending ongoing funding acquisition efforts);
+- a conference fee of €250 to cover meeting facilities and coffee breaks (fee waiver for select partipants thanks to IACS support)
 - accommodation costs of €99 per person per night in shared rooms or €139 per person per night for single rooms (limited availability), including breakfast and dinner.
 
 ---
@@ -97,7 +107,7 @@ Registration is now closed! Thanks for your interest in the workshop.
 
 ### Organizers
 
-- **Local organising committee:** Fabien Maussion, Ben Marzeion, Ritu Anilkumar
-- **Scientific advisory board:** Jordi Bolibar, Nicolas Champollion, Regine Hock, Matthias Huss, Guillaume Jouvet, Beatriz Recinos, David Rounce, Harry Zekollari
+- **Local organising committee:** Ritu Anilkumar, Fabien Maussion, Ben Marzeion, Beatriz Recinos
+- **Scientific advisory board:** Jordi Bolibar, Nicolas Champollion, Regine Hock, Matthias Huss, Guillaume Jouvet, David Rounce, Harry Zekollari
 
 For any questions or requests for information, please contact [Fabien Maussion](https://fabienmaussion.info).
